@@ -1,0 +1,105 @@
+/* Form error messages */
+#nameError {
+    display: none;
+}
+#emailError {
+    display: none;
+}
+#titleError {
+    display: none;
+}
+#phoneNumberError {
+    display: none;
+}
+#messageError {
+    display: none;
+}
+#demoHumanError {
+    display: none;
+}
+.error {
+    display: flex;
+    align-items: center;
+    margin: 10px 0 0 0;
+
+}
+.fas {
+    padding: 0 10px 0 0;
+}
+.error p {
+    padding: 0;
+    margin: 0;
+    color: red;
+}
+
+/* Author */
+.authorTextSpan {
+    font-weight: bold;
+}
+
+
+/* blockquote */
+blockquote {
+    margin: 0 20px 0 20px;
+    width: calc(100% - 7em);
+}
+
+/* Author slider */
+.authorSlides {
+    padding: 50px !important;
+    display: flex !important;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+
+/* Slick */
+.slick-dots {
+    margin-bottom: 40px !important;
+}
+
+.slick-dots li {
+    color: white !important;
+    border: none !important;
+}
+.slick-dots li button {
+    color: white !important;
+    border: none !important;
+}
+
+.fafa-disabled {
+    pointer-events: none;
+	cursor: default;
+	opacity: 0.25;
+}
+
+/* Index projects */
+.projInfo {
+    font-size: 12px;
+}
+
+/* Scroll button */
+.scrollToTop{
+    width: 80px;
+    height: 50px;
+    color: #242943;
+    background-color: #ffffff;
+    text-align: center;
+    position: fixed;
+    z-index: 100;
+    right: 0;
+    bottom: 30px;
+    padding-top: 5px;
+    border-radius: 10px 0 0 10px;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    font-weight: bold;
+}
+.scrollToTop:hover {
+    color: #242943 !important;
+}
+
+
+
+
+
