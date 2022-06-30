@@ -57,57 +57,40 @@
         'For the purpose of testing the app, correst result is written in dev. tools console.',
       exists: true,
     },
-    // {
-    //     title: 'My Project #4',
-    //     description: 'Space for my next project',
-    //     src: 'images/.jpg',
-    //     hrefs: {
-    //         href: 'landing.html',
-    //         hrefGit: '',
-    //         hrefLive: '',
-    //     },
-    //     alts: {
-    //         alt: 'Project #4',
-    //         altGit: 'Check project #4',
-    //     },
-    //     author: '',
-    //     projInfo: 'TBD',
-    //     exists: false
-    // },
-    // {
-    //     title: 'My Project #5',
-    //     description: 'Space for my next project',
-    //     src: 'images/.jpg',
-    //     hrefs: {
-    //         href: 'landing.html',
-    //         hrefGit: '',
-    //         hrefLive: '',
-    //     },
-    //     alts: {
-    //         alt: 'Project #5',
-    //         altGit: 'Check project #5',
-    //     },
-    //     author: '',
-    //     projInfo: 'TBD',
-    //     exists: false
-    // },
-    // {
-    //     title: 'My Project #6',
-    //     description: 'Space for my next project',
-    //     src: 'images/.jpg',
-    //     hrefs: {
-    //         href: 'landing.html',
-    //         hrefGit: '',
-    //         hrefLive: '',
-    //     },
-    //     alts: {
-    //         alt: 'Project #6',
-    //         altGit: 'Check project #6',
-    //     },
-    //     author: '',
-    //     projInfo: 'TBD',
-    //     exists: false
-    // }
+    {
+      title: 'Bankist',
+      description: 'Single page bankist app.',
+      src: 'images/.jpg',
+      hrefs: {
+        href: 'landing.html',
+        hrefGit: 'https://github.com/vladadev/bankist',
+        hrefLive: '',
+      },
+      alts: {
+        alt: 'Project #4',
+        altGit: 'Check project #4',
+      },
+      author: '',
+      projInfo: 'Will be hosted asap.',
+      exists: true,
+    },
+    {
+      title: 'Mapty',
+      description: 'Keep track of your workouts!',
+      src: 'images/.jpg',
+      hrefs: {
+        href: 'landing.html',
+        hrefGit: 'https://github.com/vladadev/mapty',
+        hrefLive: 'http://mapty.online/',
+      },
+      alts: {
+        alt: 'Project #4',
+        altGit: 'Check project #4',
+      },
+      author: '',
+      projInfo: '',
+      exists: true,
+    },
   ]
 
   // Returning true if node element exists within the page
