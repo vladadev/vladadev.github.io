@@ -11,7 +11,7 @@
       hrefs: {
         href: 'landing.html',
         hrefGit: 'https://github.com/vladadev/freshshop',
-        hrefLive: 'http://freshshop.store/',
+        hrefLive: '',
       },
       alts: {
         alt: 'Project #1',
@@ -28,7 +28,7 @@
       hrefs: {
         href: 'http://calcy.space/',
         hrefGit: 'https://github.com/vladadev/calculator',
-        hrefLive: 'http://calcy.space/',
+        hrefLive: '',
       },
       alts: {
         alt: 'Project #2',
@@ -46,7 +46,7 @@
       hrefs: {
         href: 'landing.html',
         hrefGit: 'https://github.com/vladadev/counting-game',
-        hrefLive: 'http://www.count-y.xyz/',
+        hrefLive: '',
       },
       alts: {
         alt: 'Project #3',
@@ -81,7 +81,7 @@
       hrefs: {
         href: 'landing.html',
         hrefGit: 'https://github.com/vladadev/mapty',
-        hrefLive: 'http://mapty.online/',
+        hrefLive: '',
       },
       alts: {
         alt: 'Project #4',
