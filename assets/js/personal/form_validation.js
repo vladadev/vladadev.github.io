@@ -121,7 +121,7 @@
     // For now we are gonna prevent submitting
     if (errArr.length > 0) event.preventDefault()
 
-    // For form submission just uncomment line 134 and comment out line 133
+    // For form submission just uncomment 'return true' and comment preventDefault()
     event.preventDefault()
     // return true
   }
